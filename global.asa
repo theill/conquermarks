@@ -1,0 +1,9 @@
+Sub Application_OnStart
+	Application("conquermarks_ConnectionString") = "DRIVER={Microsoft Access Driver (*.mdb)};DBQ=" & Server.MapPath("databases/cmarks.mdb")
+	FrontPage_UrlVars(0) = "conquermarks_ConnectionString"
+	Application("conquermarks_ConnectionTimeout") = 15
+	Application("conquermarks_CommandTimeout") = 30
+	Application("conquermarks_CursorLocation") = 3
+	Application("conquermarks_RuntimeUserName") = ""
+	Application("conquermarks_RuntimePassword") = ""
+End Sub
