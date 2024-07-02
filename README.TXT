@@ -8,12 +8,7 @@
  This archive contains  all files needed  to set up  your own online  bookmark
  manager. For an online demo of ConquerMarks, visit:
  
-   http://www.theill.com/ConquerMarks/
- 
- For updated information, please check the ASP section of the Theill Web
- Site:
- 
- 	http://www.theill.com/asp/conquermarks.asp
+   https://www.commanigy.com/conquermarks/
  
  -----------------------------------------------------------------------------
  Getting started
